@@ -4,7 +4,7 @@ import sys
 erroInicializar = False
 
 
-jogo = jogovelha.inicializar():
+jogo = jogovelha.inicializar() lavaeasd>><d,d,d,sadasdxvzxxza
 
 if len(jogo) != 3:
 	erroInicializar = True
